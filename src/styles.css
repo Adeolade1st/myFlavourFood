@@ -45,6 +45,7 @@ background: linear-gradient(109.6deg, rgb(232, 252, 252) 11.2%, rgb(252, 215, 13
 
 .cooking{
     color: orange;
+    margin-top: 0;
 }
 
 
@@ -125,6 +126,8 @@ body, html{
     background-size: cover;
   
 }
+
+
 
 
 
