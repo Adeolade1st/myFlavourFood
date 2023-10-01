@@ -107,5 +107,25 @@ text-decoration: none;
     padding: 30px 20px;
     overflow: hidden;
     margin-top: 0;
+    
+ 
 }
+
+body, html{
+    min-height: 100%;
+}
+
+.parallax{
+    background-image: url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/098/725/original/food-background.jpg?1696199400);
+  
+    height: 100%;
+    background-attachment: fixed;
+    background-position: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+
+
+
 
