@@ -4,23 +4,46 @@
         float:none;
         display:block;
         text-align:left;
-        font-size: 16px !important;
+        font-size: 14px !important;
         
     }
  
     .header .animate-charcter{
     display: none;
   }
-  .header a:hover {
-      font-weight: 500px !important;
-      color: orange !important;
+  
+  
+  p .more-info{
+    font-size: 12px !important;
   }
+
+   .cooking {
+  
+       font-size: 15px;
+      
+   }
+
+   h1 .anonymous {
+       font-size: 12px;
+   }
+
+   p .title {
+       font-size: 9px;
+       font-weight: 600;
+   }
+
+   h3 .about-cuisines {
+       font-size: 12.5px;
+       font-weight: 700px;
+   }
+
+   .challenge {
+       font-size: 7px;
+   }
+   .social-icon {
+       font-size: 7px;
+   }
 }
-
-
-
-
-
 
 
 h1{
@@ -43,9 +66,16 @@ background: linear-gradient(109.6deg, rgb(232, 252, 252) 11.2%, rgb(252, 215, 13
     padding-right: 10px;
 }
 
-.cooking{
+ .cooking{
     color: orange;
     margin-top: 0;
+    font-size: 30px;
+    font-weight: 800px;
+    padding-top: 30px;
+}
+
+h1 .anonymous{
+    font-size: 12px;
 }
 
 
@@ -81,7 +111,7 @@ background: linear-gradient(109.6deg, rgb(232, 252, 252) 11.2%, rgb(252, 215, 13
 
 
 .header a{
-    font-size: 20px;
+    font-size: 16px;
     color: black;
     font-weight: 700px;
     line-height: 30px;
@@ -100,12 +130,12 @@ text-decoration: none;
 .header a:hover{
    transition: all 150ms ease-in-out;
    color: orange;
-   font-size: 35px;
+   font-size: 18px;
 }
 
 .header {
     background-color: #E8FCFC;
-    padding: 30px 20px;
+    padding: 20px 10px;
     overflow: hidden;
     margin-top: 0;
     
@@ -127,7 +157,27 @@ body, html{
   
 }
 
+  p .more-info {
+      font-size: 16px !important;
+  }
 
+  p .title{
+    font-size: 18px;
+    font-weight: 600;
+  }
+
+h3 .about-cuisines{
+    font-size: 25px;
+    font-weight: 700px;
+}
+
+.challenge{
+    font-size: 12px;
+}
+.social-icon{
+    font-size: 12px;
+    padding-left: 10px;
+}
 
 
 
